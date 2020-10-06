@@ -76,6 +76,8 @@ Following Python libraries were utilized
 
 ### Terms of Use
 
+#### Data Citations
 The source data is taken from Wikimedia. By using this repository you agree to Wikimedia [Terms of Use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions)
 
+#### Code License
 The code is available under [MIT License](../LICENSE)
