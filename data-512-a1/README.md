@@ -9,13 +9,13 @@ The goal of this project is to construct, analyze and publish a dataset of month
 ├── README.md
 ├── data
 │   ├── clean
-│   │   └── en-wikipedia_traffic_200801-202009.csv
+│   │   └── en-wikipedia_traffic_200801-202008.csv
 │   └── raw
-│       ├── pagecounts_desktop-site_200801-201608.json
-│       ├── pagecounts_mobile-site_200801-201608.json
-│       ├── pageviews_desktop-site_201507-202009.json
-│       ├── pageviews_mobile-app_201507-202009.json
-│       └── pageviews_mobile-site_201507-202009.json
+│       ├── pagecounts_desktop-site_200801-202008.json
+│       ├── pagecounts_mobile-site_200801-202008.json
+│       ├── pageviews_desktop-site_200801-202008.json
+│       ├── pageviews_mobile-app_200801-202008.json
+│       └── pageviews_mobile-site_200801-202008.json
 ├── hcds_a1_data_curation.ipynb
 └── english-wikipedia-views-2008-2020.jpg
 ```
@@ -31,7 +31,7 @@ The data is collected from two of the Wikimedia REST API's.
 
 #### Data Decription
 
-The final cleaned data is stored [here](./data/clean/en-wikipedia_traffic_200801-202009.csv)
+The final cleaned data is stored [here](./data/clean/en-wikipedia_traffic_200801-202008.csv)
 The fields in this file represent the following
   
   | Column  | Value | Description|
