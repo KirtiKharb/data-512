@@ -16,7 +16,7 @@ The goal of this project is to construct, analyze and publish a dataset of month
 │       ├── pageviews_desktop-site_201507-202009.json
 │       ├── pageviews_mobile-app_201507-202009.json
 │       └── pageviews_mobile-site_201507-202009.json
-├── hcds-a1-data-curation.ipynb
+├── hcds_a1_data_curation.ipynb
 └── english-wikipedia-views-2008-2020.jpg
 ```
 
@@ -76,6 +76,8 @@ Following Python libraries were utilized
 
 ### Terms of Use
 
+#### Data Citations
 The source data is taken from Wikimedia. By using this repository you agree to Wikimedia [Terms of Use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions)
 
+#### Code License
 The code is available under [MIT License](../LICENSE)
