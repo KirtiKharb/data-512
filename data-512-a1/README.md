@@ -1,6 +1,6 @@
 ## A1: Data Curation
 
-The goal of this project is to construct, analyze and publish a dataset of monthly traffic on English Wikipedia from January 1st 2008 to September 30 2020. All analysis is performed and documented in a single [jupyter notebook](./hcds_a1_data_curation.ipynb) including data acquisition, processing and analysis. The project aims to follow the best practices for open scientific research in designing and implementing a project that is fully reproducible by others.
+The goal of this project is to construct, analyze and publish a dataset of monthly traffic on English Wikipedia from January 1st 2008 to August 31 2020. All analysis is performed and documented in a single [jupyter notebook](./hcds_a1_data_curation.ipynb) including data acquisition, processing and analysis. The project aims to follow the best practices for open scientific research in designing and implementing a project that is fully reproducible by others.
 
 ### Folder Structure
 
@@ -61,7 +61,7 @@ The desktop and mobile views are combined to get the total number of views for b
 
 #### Step 3: Data Analysis
 
-We plot a timeseries graph for the three traffic metrics from January 1 2008 to September 30 2020 with different line styles (to separate pagecounts from pageviews) and colors (to separate the three tarffic metrics, i.e., mobile, desktop and total)
+We plot a timeseries graph for the three traffic metrics from January 1 2008 to August 31 2020 with different line styles (to separate pagecounts from pageviews) and colors (to separate the three tarffic metrics, i.e., mobile, desktop and total)
 
 ![Visualization](./english-wikipedia-views-2008-2020.jpg)
 
