@@ -1,6 +1,6 @@
 ## A2: Bias in Data
 
-The goal of this assignment is to identify what, if any, sources of bias may exist in the Wikipedia Talk corpus datasets, and to develop testable hypotheses about how these biases might impact the behavior of machine learning models trained on the data, when those models are used for research purposes or to power data-driven applications.
+The goal of this assignment is to identify what, if any, sources of bias may exist in the Wikipedia Talk corpus datasets, and to develop testable hypotheses about how these biases might impact the behavior of machine learning models trained on the data, when those models are used for research purposes or to power data-driven applications. All analysis is performed and documented in a single [jupyter notebook](./hcds-a2-data-bias.ipynb) 
 
 ### Data
 All the raw data is stored under [data/raw](./data/raw) and the cleaned data is stored under [data/clean](./data/clean). The raw data contains Toxicity and Personal Attacks datasets as downloaded from [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731) in their respective sub-folders [Toxicity](./data/raw/Toxicity) and [Personal_Attacks](./data/raw/Personal_Attacks). All generated figures from the code are under [Figures](./Figures).
