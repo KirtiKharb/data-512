@@ -5,13 +5,13 @@ The goal of this assignment is to identify what, if any, sources of bias may exi
 ### Data
 All the raw data is stored under [data/raw](./data/raw) and the cleaned data is stored under [data/clean](./data/clean). The raw data contains Toxicity and Personal Attacks datasets as downloaded from [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731) in their respective sub-folders [Toxicity](./data/raw/Toxicity) and [Personal_Attacks](./data/raw/Personal_Attacks). All generated figures from the code are under [Figures](./Figures).
 
-#### Source
+### Source
 The data is collected from [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731). 
 - [Toxicity datasets](https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Toxicity/4563973)
 
 - [Personal Attacks datasets](https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Personal_Attacks/4054689)
 
-#### Useful Links
+### Useful Links
 Dataset description and schema can be found [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
 
 Overview of the research project can be found [here](https://meta.wikimedia.org/wiki/Research:Detox).
